@@ -5,7 +5,9 @@ The data set we will use comes from the Toxic Comment Classification Challenge o
 
 Pre-requisite:
 Tensorflow
-keras
+https://www.tensorflow.org/install
+Keras
+
 
 Dataset:
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
